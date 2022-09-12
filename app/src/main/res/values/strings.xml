@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposeLogin</string>
+    <string name="sign_in_text">Welcome</string>
+    <string name="sign_in_tip">Sign in</string>
+    <string name="hash_hint">E-mail</string>
+    <string name="go">Go</string>
+
+</resources>
